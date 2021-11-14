@@ -1,10 +1,10 @@
 # RuangAdmin
 
-RuangAdmin - Free Admin Control Panel Themes Based on Bootstrap 4
+Sagiri Admin - Free Admin Control Panel Themes Based on Bootstrap 4
 
 -------------------
 
-**RuangAdmin** is responsive admin template. Based on Bootstrap 4 Framework. Highly customizable and easy to use. 
+**Sagiri Admin** is responsive admin template. Based on Bootstrap 4 Framework. Highly customizable and easy to use. 
 
 **You can review it on [RuangAdmin - Demo](https://indrijunanda.github.io/RuangAdmin/)**
 
